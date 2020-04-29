@@ -3,7 +3,7 @@ public class HelloGroup {
 
         System.out.println("Hello Future Group-3 SDET");
         
-        System.out.println("Hi. Everyone.This line is added by: Rahman Abdalla");
+        System.out.println("Hi. Everyone.This line is added by: RAHMAN");
 
     }
 }
